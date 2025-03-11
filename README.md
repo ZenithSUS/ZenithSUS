@@ -5,11 +5,6 @@
 - 📫 How to reach me: https://web.facebook.com/jeranchristopher.merino
 
 - My Tech Stack are
-- PHP
-- MySQL
-- React
-- Node
-- Express
-- Appwrite
-- Firebase
-- Docker
+- Backend: PHP, MySQL, Node, Express, Appwrite and Firebase
+- Frontend: HTML, CSS, JS, Tailwind, Shadcn and React, Typescript
+- Tools: Docker,  Git, Axios, Nodemailer and Cron
