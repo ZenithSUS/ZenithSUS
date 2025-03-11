@@ -3,3 +3,13 @@
 - 🌱 I’m currently learning Firebase, Express, React and Node
 - 💞️ I’m looking to collaborate on web projects 
 - 📫 How to reach me: https://web.facebook.com/jeranchristopher.merino
+
+- My Tech Stack are
+- PHP
+- MySQL
+- React
+- Node
+- Express
+- Appwrite
+- Firebase
+- Docker
