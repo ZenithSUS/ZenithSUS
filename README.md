@@ -8,3 +8,4 @@
 - Backend: PHP, MySQL, Node, Express, Appwrite and Firebase
 - Frontend: HTML, CSS, JS, Tailwind, Shadcn and React, Typescript
 - Tools: Docker,  Git, Axios, Nodemailer and Cron
+- AI: Mistral
