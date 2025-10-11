@@ -4,8 +4,8 @@
 - 📫 How to reach me: https://web.facebook.com/jeranchristopher.merino
 
 - My Tech Stack are
-- Backend: Node, Express, PHP, Appwrite and Firebase
-- Frontend: HTML, CSS, JS, Tailwind, Shadcn and React, Typescript
+- Backend: Node, Next.js Express, PHP, Appwrite and Firebase
+- Frontend: HTML, CSS, JS, Tailwind, Shadcn, React, Typescript and Next.js
 - Mobile: React Native
 - Databse: MySQL, Appwrite and MongoDB
 - Tools: Docker,  Git, Axios, Nodemailer and Cron
